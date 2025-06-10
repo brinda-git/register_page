@@ -1,0 +1,13 @@
+C:\register\registration\register_page\src\main\java\com\example\register_page\controller\LandingHomePageController.java
+C:\register\registration\register_page\src\main\java\com\example\register_page\controller\LoginController.java
+C:\register\registration\register_page\src\main\java\com\example\register_page\controller\RegisterController.java
+C:\register\registration\register_page\src\main\java\com\example\register_page\dto\Login.java
+C:\register\registration\register_page\src\main\java\com\example\register_page\model\Register.java
+C:\register\registration\register_page\src\main\java\com\example\register_page\RegisterPageApplication.java
+C:\register\registration\register_page\src\main\java\com\example\register_page\repository\RegisterRepository.java
+C:\register\registration\register_page\src\main\java\com\example\register_page\service\EmailService.java
+C:\register\registration\register_page\src\main\java\com\example\register_page\service\impl\EmailServiceImpl.java
+C:\register\registration\register_page\src\main\java\com\example\register_page\service\impl\RegisterServiceImpl.java
+C:\register\registration\register_page\src\main\java\com\example\register_page\service\LoginService.java
+C:\register\registration\register_page\src\main\java\com\example\register_page\service\RegisterService.java
+C:\register\registration\register_page\src\main\java\com\example\register_page\service\service\impl\LoginServiceImpl.java
